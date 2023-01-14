@@ -1,0 +1,694 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB615B13-46D5-41D6-8D5B-DFACD37EC28A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>KASSMATH.My.MyApplication</StartupObject>
+    <RootNamespace>KASSMATH</RootNamespace>
+    <AssemblyName>KASSMATH</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>KASSMATH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>KASSMATH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_1.designer.vb">
+      <DependentUpon>EJERCICIO_IMPROPIAS_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_2.designer.vb">
+      <DependentUpon>EJERCICIO_IMPROPIAS_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_3.designer.vb">
+      <DependentUpon>EJERCICIO_IMPROPIAS_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_4.designer.vb">
+      <DependentUpon>EJERCICIO_IMPROPIAS_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\NIVELES_IMPROPIAS.designer.vb">
+      <DependentUpon>NIVELES_IMPROPIAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\IMPROPIAS\NIVELES_IMPROPIAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_1.Designer.vb">
+      <DependentUpon>EJERCICIO_MIXTAS_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_2.Designer.vb">
+      <DependentUpon>EJERCICIO_MIXTAS_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_3.Designer.vb">
+      <DependentUpon>EJERCICIO_MIXTAS_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_4.Designer.vb">
+      <DependentUpon>EJERCICIO_MIXTAS_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\NIVELES_MIXTAS.Designer.vb">
+      <DependentUpon>NIVELES_MIXTAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\MIXTAS\NIVELES_MIXTAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_1.designer.vb">
+      <DependentUpon>EJERCICIO_PROPIAS_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_2.designer.vb">
+      <DependentUpon>EJERCICIO_PROPIAS_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_3.designer.vb">
+      <DependentUpon>EJERCICIO_PROPIAS_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_4.designer.vb">
+      <DependentUpon>EJERCICIO_PROPIAS_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\NIVELES_PROPIAS.designer.vb">
+      <DependentUpon>NIVELES_PROPIAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\PROPIAS\NIVELES_PROPIAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\RESULTADOS.designer.vb">
+      <DependentUpon>RESULTADOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\RESULTADOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\RESULTADOS_3D.designer.vb">
+      <DependentUpon>RESULTADOS_3D.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\RESULTADOS_3D.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\TIPO_FRACCIONES.designer.vb">
+      <DependentUpon>TIPO_FRACCIONES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\TIPO_FRACCIONES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_FRACIONES\variables_globales.vb" />
+    <Compile Include="DIVISION_NATURALES\DIVISION_NATURALES.designer.vb">
+      <DependentUpon>DIVISION_NATURALES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_NATURALES\DIVISION_NATURALES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVISION_NATURALES\frmEJERCICIO_DIVISIONES_1.designer.vb">
+      <DependentUpon>frmEJERCICIO_DIVISIONES_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIVISION_NATURALES\frmEJERCICIO_DIVISIONES_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.Designer.vb">
+      <DependentUpon>INICIO.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN1Propias.designer.vb">
+      <DependentUpon>frmN1Propias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN1Propias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN2Propias.designer.vb">
+      <DependentUpon>frmN2Propias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN2Propias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN3Propias.designer.vb">
+      <DependentUpon>frmN3Propias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN3Propias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN4Propias.designer.vb">
+      <DependentUpon>frmN4Propias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\frmN4Propias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\NivFraccPropias.designer.vb">
+      <DependentUpon>NivFraccPropias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\NivFraccPropias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN1.designer.vb">
+      <DependentUpon>ReProN1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN2.designer.vb">
+      <DependentUpon>ReProN2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN3.designer.vb">
+      <DependentUpon>ReProN3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN4.designer.vb">
+      <DependentUpon>ReProN4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\TIPOS_RESTA.designer.vb">
+      <DependentUpon>TIPOS_RESTA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\TIPOS_RESTA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_FRACCIONES\PROPIAS\VaGlobales.vb" />
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N1.designer.vb">
+      <DependentUpon>frmEJERCICIOS_RESTA_N1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N2.designer.vb">
+      <DependentUpon>frmEJERCICIOS_RESTA_N2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N3.designer.vb">
+      <DependentUpon>frmEJERCICIOS_RESTA_N3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N4.designer.vb">
+      <DependentUpon>frmEJERCICIOS_RESTA_N4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS.designer.vb">
+      <DependentUpon>frmRESULTADOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N2.designer.vb">
+      <DependentUpon>frmRESULTADOS_N2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N3.designer.vb">
+      <DependentUpon>frmRESULTADOS_N3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N4.designer.vb">
+      <DependentUpon>frmRESULTADOS_N4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\frmRESULTADOS_N4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\RESTA_NATURALES.designer.vb">
+      <DependentUpon>RESTA_NATURALES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\RESTA_NATURALES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESTA_NATURALES\varGlobales_Resta.vb" />
+    <Compile Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos.designer.vb">
+      <DependentUpon>Frm_RespuestasSumaMixtos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos2.designer.vb">
+      <DependentUpon>Frm_RespuestasSumaMixtos2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\FRM_RESULTADO_EXAMEN.Designer.vb">
+      <DependentUpon>FRM_RESULTADO_EXAMEN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\FRM_RESULTADO_EXAMEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias.designer.vb">
+      <DependentUpon>Impropias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias2.designer.vb">
+      <DependentUpon>Impropias2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias3.designer.vb">
+      <DependentUpon>Impropias3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias4.designer.vb">
+      <DependentUpon>Impropias4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias_Niveles.designer.vb">
+      <DependentUpon>Impropias_Niveles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\IMPROPIAS\Impropias_Niveles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas1.designer.vb">
+      <DependentUpon>Frm_Mixtas1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas2.designer.vb">
+      <DependentUpon>Frm_Mixtas2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas3.designer.vb">
+      <DependentUpon>Frm_Mixtas3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas4.designer.vb">
+      <DependentUpon>Frm_Mixtas4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Mixtas_Niveles.designer.vb">
+      <DependentUpon>Mixtas_Niveles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\MIXTAS\Mixtas_Niveles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_NivelesPropias.designer.vb">
+      <DependentUpon>Frm_NivelesPropias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_NivelesPropias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias1.designer.vb">
+      <DependentUpon>Frm_Propias1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias2.designer.vb">
+      <DependentUpon>Frm_Propias2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias3.designer.vb">
+      <DependentUpon>Frm_Propias3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias4.designer.vb">
+      <DependentUpon>Frm_Propias4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\respuestas.designer.vb">
+      <DependentUpon>respuestas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\respuestas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\respuestas2.designer.vb">
+      <DependentUpon>respuestas2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\respuestas2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\tipos_suma.designer.vb">
+      <DependentUpon>tipos_suma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMA_FRACCIONES\tipos_suma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VariablesGlob.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_1.resx">
+      <DependentUpon>EJERCICIO_IMPROPIAS_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_2.resx">
+      <DependentUpon>EJERCICIO_IMPROPIAS_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_3.resx">
+      <DependentUpon>EJERCICIO_IMPROPIAS_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\IMPROPIAS\EJERCICIO_IMPROPIAS_4.resx">
+      <DependentUpon>EJERCICIO_IMPROPIAS_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\IMPROPIAS\NIVELES_IMPROPIAS.resx">
+      <DependentUpon>NIVELES_IMPROPIAS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_1.resx">
+      <DependentUpon>EJERCICIO_MIXTAS_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_2.resx">
+      <DependentUpon>EJERCICIO_MIXTAS_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_3.resx">
+      <DependentUpon>EJERCICIO_MIXTAS_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\MIXTAS\EJERCICIO_MIXTAS_4.resx">
+      <DependentUpon>EJERCICIO_MIXTAS_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\MIXTAS\NIVELES_MIXTAS.resx">
+      <DependentUpon>NIVELES_MIXTAS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_1.resx">
+      <DependentUpon>EJERCICIO_PROPIAS_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_2.resx">
+      <DependentUpon>EJERCICIO_PROPIAS_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_3.resx">
+      <DependentUpon>EJERCICIO_PROPIAS_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\PROPIAS\EJERCICIO_PROPIAS_4.resx">
+      <DependentUpon>EJERCICIO_PROPIAS_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\PROPIAS\NIVELES_PROPIAS.resx">
+      <DependentUpon>NIVELES_PROPIAS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\RESULTADOS.resx">
+      <DependentUpon>RESULTADOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\RESULTADOS_3D.resx">
+      <DependentUpon>RESULTADOS_3D.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_FRACIONES\TIPO_FRACCIONES.resx">
+      <DependentUpon>TIPO_FRACCIONES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_NATURALES\DIVISION_NATURALES.resx">
+      <DependentUpon>DIVISION_NATURALES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVISION_NATURALES\frmEJERCICIO_DIVISIONES_1.resx">
+      <DependentUpon>frmEJERCICIO_DIVISIONES_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO.resx">
+      <DependentUpon>INICIO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\frmN1Propias.resx">
+      <DependentUpon>frmN1Propias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\frmN2Propias.resx">
+      <DependentUpon>frmN2Propias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\frmN3Propias.resx">
+      <DependentUpon>frmN3Propias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\frmN4Propias.resx">
+      <DependentUpon>frmN4Propias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\NivFraccPropias.resx">
+      <DependentUpon>NivFraccPropias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN1.resx">
+      <DependentUpon>ReProN1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN2.resx">
+      <DependentUpon>ReProN2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN3.resx">
+      <DependentUpon>ReProN3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\RESULTADOS_PROPIAS_RESTA\ReProN4.resx">
+      <DependentUpon>ReProN4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_FRACCIONES\PROPIAS\TIPOS_RESTA.resx">
+      <DependentUpon>TIPOS_RESTA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N1.resx">
+      <DependentUpon>frmEJERCICIOS_RESTA_N1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N2.resx">
+      <DependentUpon>frmEJERCICIOS_RESTA_N2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N3.resx">
+      <DependentUpon>frmEJERCICIOS_RESTA_N3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmEJERCICIOS_RESTA_N4.resx">
+      <DependentUpon>frmEJERCICIOS_RESTA_N4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmRESULTADOS.resx">
+      <DependentUpon>frmRESULTADOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmRESULTADOS_N2.resx">
+      <DependentUpon>frmRESULTADOS_N2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmRESULTADOS_N3.resx">
+      <DependentUpon>frmRESULTADOS_N3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\frmRESULTADOS_N4.resx">
+      <DependentUpon>frmRESULTADOS_N4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESTA_NATURALES\RESTA_NATURALES.resx">
+      <DependentUpon>RESTA_NATURALES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos.resx">
+      <DependentUpon>Frm_RespuestasSumaMixtos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\Frm_RespuestasSumaMixtos2.resx">
+      <DependentUpon>Frm_RespuestasSumaMixtos2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\FRM_RESULTADO_EXAMEN.resx">
+      <DependentUpon>FRM_RESULTADO_EXAMEN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\IMPROPIAS\Impropias.resx">
+      <DependentUpon>Impropias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\IMPROPIAS\Impropias2.resx">
+      <DependentUpon>Impropias2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\IMPROPIAS\Impropias3.resx">
+      <DependentUpon>Impropias3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\IMPROPIAS\Impropias4.resx">
+      <DependentUpon>Impropias4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\IMPROPIAS\Impropias_Niveles.resx">
+      <DependentUpon>Impropias_Niveles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas1.resx">
+      <DependentUpon>Frm_Mixtas1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas2.resx">
+      <DependentUpon>Frm_Mixtas2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas3.resx">
+      <DependentUpon>Frm_Mixtas3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\MIXTAS\Frm_Mixtas4.resx">
+      <DependentUpon>Frm_Mixtas4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\MIXTAS\Mixtas_Niveles.resx">
+      <DependentUpon>Mixtas_Niveles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\PROPIAS\Frm_NivelesPropias.resx">
+      <DependentUpon>Frm_NivelesPropias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias1.resx">
+      <DependentUpon>Frm_Propias1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias2.resx">
+      <DependentUpon>Frm_Propias2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias3.resx">
+      <DependentUpon>Frm_Propias3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\PROPIAS\Frm_Propias4.resx">
+      <DependentUpon>Frm_Propias4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\respuestas.resx">
+      <DependentUpon>respuestas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\respuestas2.resx">
+      <DependentUpon>respuestas2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMA_FRACCIONES\tipos_suma.resx">
+      <DependentUpon>tipos_suma.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="SUMA_FRACCIONES\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RESTA_FRACCIONES\IMPROPIAS\" />
+    <Folder Include="RESTA_FRACCIONES\MIXTAS\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,304 @@
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\KASSMATH.exe.config
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\Interop.WMPLib.dll
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.vbproj.ResolveComReference.cache
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_1.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_2.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_3.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_4.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.NIVELES_IMPROPIAS.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_1.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_2.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_3.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_4.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.NIVELES_PROPIAS.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.RESULTADOS.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.RESULTADOS_3D.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.TIPO_FRACCIONES.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Resources.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.vbproj.GenerateResource.Cache
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\KASSMATH.exe
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\KASSMATH.pdb
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\KASSMATH.xml
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\Interop.WMPLib.dll
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.DIVISION_NATURALES.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIO_DIVISIONES_1.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.INICIO.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.frmN1Propias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.frmN2Propias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.frmN3Propias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.frmN4Propias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.NivFraccPropias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.ReProN1.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.ReProN2.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.ReProN3.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.ReProN4.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.TIPOS_RESTA.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.RESTA_NATURALES.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Impropias.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Impropias2.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Impropias3.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Impropias4.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.Impropias_Niveles.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.respuestas.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.respuestas2.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.tipos_suma.resources
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.exe
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.xml
+C:\Users\labComputoULV23\AppData\Local\Temporary Projects\KASSMATH\obj\Debug\KASSMATH.pdb
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe.config
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\Interop.WMPLib.dll
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.ResolveComReference.cache
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.exe
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.xml
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.pdb
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.pdb
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.xml
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\Interop.WMPLib.dll
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_1.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_3.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_4.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_IMPROPIAS.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_1.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_3.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_4.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_PROPIAS.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS_3D.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPO_FRACCIONES.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.DIVISION_NATURALES.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIO_DIVISIONES_1.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.INICIO.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Resources.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN1Propias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN2Propias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN3Propias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN4Propias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NivFraccPropias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN1.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN3.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN4.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPOS_RESTA.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESTA_NATURALES.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias3.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias4.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias_Niveles.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.tipos_suma.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.GenerateResource.Cache
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_NivelesPropias.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias1.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias2.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias3.resources
+C:\Users\labComputoULV23\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe.config
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\Interop.WMPLib.dll
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.ResolveComReference.cache
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.exe
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.xml
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.pdb
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.pdb
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.xml
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\Interop.WMPLib.dll
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_IMPROPIAS.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_MIXTAS.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_PROPIAS.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS_3D.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPO_FRACCIONES.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.DIVISION_NATURALES.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIO_DIVISIONES_1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.INICIO.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Resources.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN1Propias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN2Propias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN3Propias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN4Propias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NivFraccPropias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPOS_RESTA.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESTA_NATURALES.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias_Niveles.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_NivelesPropias.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias1.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias3.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias4.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas2.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.tipos_suma.resources
+C:\Users\ANÓNIMO\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.GenerateResource.Cache
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe.config
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.ResolveComReference.cache
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.exe
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.xml
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.pdb
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_IMPROPIAS.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_MIXTAS.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_PROPIAS.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS_3D.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPO_FRACCIONES.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.DIVISION_NATURALES.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIO_DIVISIONES_1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.INICIO.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Resources.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN1Propias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN2Propias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN3Propias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN4Propias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NivFraccPropias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPOS_RESTA.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESTA_NATURALES.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_RespuestasSumaMixtos.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_RespuestasSumaMixtos2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.FRM_RESULTADO_EXAMEN.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias_Niveles.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Mixtas_Niveles.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_NivelesPropias.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias1.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias3.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias4.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas2.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.tipos_suma.resources
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.GenerateResource.Cache
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.pdb
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.xml
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jhorman\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe.config
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\Interop.WMPLib.dll
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.ResolveComReference.cache
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.exe
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.xml
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.pdb
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.exe
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.pdb
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\KASSMATH.xml
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\Interop.WMPLib.dll
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_IMPROPIAS_4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_IMPROPIAS.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_MIXTAS_4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_MIXTAS.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.EJERCICIO_PROPIAS_4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NIVELES_PROPIAS.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESULTADOS_3D.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPO_FRACCIONES.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.DIVISION_NATURALES.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIO_DIVISIONES_1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.INICIO.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Resources.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN1Propias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN2Propias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN3Propias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmN4Propias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.NivFraccPropias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.ReProN4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.TIPOS_RESTA.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.RESTA_NATURALES.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_RespuestasSumaMixtos.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_RespuestasSumaMixtos2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.FRM_RESULTADO_EXAMEN.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Impropias_Niveles.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Mixtas4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Mixtas_Niveles.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_NivelesPropias.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.Frm_Propias4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.respuestas2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.tipos_suma.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.vbproj.GenerateResource.Cache
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIOS_RESTA_N1.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIOS_RESTA_N2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIOS_RESTA_N3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmEJERCICIOS_RESTA_N4.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmRESULTADOS.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmRESULTADOS_N2.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmRESULTADOS_N3.resources
+C:\Users\ferch\Desktop\PROYECTO_NUEVO\KASSMATH\KASSMATH\obj\Debug\KASSMATH.frmRESULTADOS_N4.resources
